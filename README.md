@@ -1,5 +1,8 @@
 To get started, run the following commands on your terminal:
-npm install -g expo-cli
-expo init STDetector
+git clone https://github.com/ascend2001/STDetector.git
 cd STDetector
-Use the package.json file to find all the libraries and dependencies that should be installed using npm install in your node modules
+expo start
+
+This will open up the Expo server and Metro Bundler
+Download Expo Go on your phone and scan the QR code from the Bundler or the terminal
+Wait for it to load and see the results.
